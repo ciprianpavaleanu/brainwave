@@ -1,6 +1,6 @@
 
-# Brainwave
-Live DEMO : https://brainwaveapp-pavaleanu.netlify.app/
+# Brainwave Live DEMO
+https://brainwaveapp-pavaleanu.netlify.app/
 
 # Description 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. </br>
